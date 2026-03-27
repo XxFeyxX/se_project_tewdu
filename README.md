@@ -1,17 +1,35 @@
-# Simple Todo App
+# Tewdu — Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+Tewdu is a simple and interactive Todo application that allows users to add, complete, and delete tasks. The project focuses on clean structure using JavaScript classes and improving user experience with form validation.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+- Add new todos through a popup form
+- Optional due date for each task
+- Mark tasks as completed using a checkbox
+- Delete tasks with a button
+- Real-time form validation with error messages
+- Submit button disables when inputs are invalid
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+This project was built using:
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Object-Oriented Programming (classes and modules)
+- Git & GitHub
+
+Key techniques used:
+
+- DOM manipulation
+- Event handling
+- Form validation logic
+- Code organization using classes (`Todo`, `FormValidator`)
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- https://xxfeyxx.github.io/se_project_tewdu/
